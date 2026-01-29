@@ -1,0 +1,42 @@
+# robots.txt für DJ Jackobeat - Event DJ Service Demmin
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.djjackobeat.de/sitemap.xml
+
+# Priorität für wichtige Suchmaschinen
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+# Social Media Bots
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+# Disallow für nicht-öffentliche Bereiche
+User-agent: *
+Disallow: /api/
+Disallow: /admin/
+Disallow: /*.json$
+Disallow: /node_modules/
+Disallow: /src/
+Disallow: /.git/
+
+# Crawl-delay für weniger wichtige Bots
+User-agent: *
+Crawl-delay: 5
