@@ -1,4 +1,4 @@
-# robots.txt für DJDEMO - Event DJ Service Demmin
+# robots.txt für DJDEMO - Event DJ Service Stadt
 
 User-agent: *
 Allow: /

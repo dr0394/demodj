@@ -27,7 +27,7 @@ const AGB = () => {
               <h3 className="text-xl font-semibold text-white mb-3">1. Vertragspartner</h3>
               <p>
                 Nachstehende Allgemeine Geschäftsbedingungen gelten für Vertragsverhältnisse
-                zwischen Heiko Banaszak (nachfolgend DJDEMO genannt) und seinen Vertragspartnern (Kunden).
+                zwischen Max Mustermann (nachfolgend DJDEMO genannt) und seinen Vertragspartnern (Kunden).
               </p>
             </div>
 
@@ -166,7 +166,7 @@ const AGB = () => {
             <div>
               <h3 className="text-xl font-semibold text-white mb-3">11. Erfüllung und Gerichtsstand</h3>
               <p>
-                Auf alle Rechtsbeziehungen zwischen DJDEMO und dem Kunden findet das Recht der Bundesrepublik Deutschland Anwendung. Als Erfüllungsort und Gerichtsstandort, soweit rechtlich zulässig, wird Demmin vereinbart.
+                Auf alle Rechtsbeziehungen zwischen DJDEMO und dem Kunden findet das Recht der Bundesrepublik Deutschland Anwendung. Als Erfüllungsort und Gerichtsstandort, soweit rechtlich zulässig, wird Stadt vereinbart.
               </p>
             </div>
 

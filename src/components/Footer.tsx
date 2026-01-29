@@ -14,10 +14,10 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-sm text-gray-400 mt-2">
-              Heiko Kohlfärber
+              Max Mustermann
             </p>
             <p className="text-xs text-gray-500 mt-2">
-              80er & 90er Spezialist aus Demmin
+              80er & 90er Spezialist aus Stadt
             </p>
             <div className="flex gap-3 mt-4">
               <a
@@ -36,12 +36,12 @@ const Footer = () => {
             <h3 className="text-sm text-white font-semibold mb-3">Kontakt</h3>
             <ul className="space-y-2 text-xs text-gray-400">
               <li>
-                <a href="mailto:heikobanaszak1@web.de" className="hover:text-cyan-400 transition-colors">
-                  heikobanaszak1@web.de
+                <a href="mailto:kontakt@djdemo.de" className="hover:text-cyan-400 transition-colors">
+                  kontakt@djdemo.de
                 </a>
               </li>
               <li className="text-xs">
-                Lerchenweg 9<br />17109 Demmin
+                Musterstraße 1<br />12345 Stadt
               </li>
               <li className="pt-2 text-gray-500">
                 Buchbar im Umkreis von 350 km
@@ -90,7 +90,7 @@ const Footer = () => {
 
         <div className="border-t border-white/10 pt-6 mt-6">
           <div className="text-center text-xs text-gray-500">
-            <p>&copy; {new Date().getFullYear()} DJDEMO - Heiko Kohlfärber. Alle Rechte vorbehalten.</p>
+            <p>&copy; {new Date().getFullYear()} DJDEMO - Max Mustermann. Alle Rechte vorbehalten.</p>
           </div>
         </div>
       </div>

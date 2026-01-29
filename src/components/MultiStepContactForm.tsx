@@ -107,7 +107,7 @@ const MultiStepContactForm = ({ isOpen, onClose }: MultiStepContactFormProps) =>
 
   const handleWhatsAppSend = () => {
     const message = generateMessageText()
-    const whatsappNumber = '4915201798664'
+    const whatsappNumber = '491234567890'
     const encodedMessage = encodeURIComponent(message)
     window.open(`https://wa.me/${whatsappNumber}?text=${encodedMessage}`, '_blank')
   }
@@ -116,7 +116,7 @@ const MultiStepContactForm = ({ isOpen, onClose }: MultiStepContactFormProps) =>
     const message = generateMessageText()
     const subject = encodeURIComponent(`Anfrage: ${formData.event_type || 'Event'} ${formData.event_date ? 'am ' + new Date(formData.event_date).toLocaleDateString('de-DE') : ''}`)
     const body = encodeURIComponent(message)
-    window.open(`mailto:heikobanaszak1@web.de?subject=${subject}&body=${body}`, '_blank')
+    window.open(`mailto:kontakt@djdemo.de?subject=${subject}&body=${body}`, '_blank')
   }
 
   const updateFormData = (field: keyof FormData, value: string | string[]) => {

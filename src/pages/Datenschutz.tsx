@@ -120,12 +120,12 @@ const Datenschutz = () => {
               <p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>
               <p className="mt-2">
                 DJDEMO<br />
-                Heiko Banaszak<br />
-                Musterstraße 123<br />
-                17109 Demmin<br />
+                Max Mustermann<br />
+                Musterstraße 1<br />
+                12345 Stadt<br />
                 Deutschland<br />
-                Mobil: +49152 01798 664<br />
-                E-Mail: heikobanaszak1@web.de
+                Mobil: +49 123 4567890<br />
+                E-Mail: kontakt@djdemo.de
               </p>
               <p className="mt-2">
                 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen

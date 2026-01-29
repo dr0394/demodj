@@ -4,7 +4,7 @@ import { Phone, Mail, MessageCircle } from 'lucide-react'
 const Contact = () => {
   const handleWhatsApp = () => {
     const message = encodeURIComponent('Hallo DJDEMO! Ich möchte gerne mehr über Ihre Leistungen erfahren.')
-    window.open(`https://wa.me/4915201798664?text=${message}`, '_blank')
+    window.open(`https://wa.me/491234567890?text=${message}`, '_blank')
   }
 
   return (
@@ -25,8 +25,8 @@ const Contact = () => {
               <Mail className="w-8 h-8" style={{ color: '#0EA5E9' }} />
             </div>
             <h3 className="text-xl font-bold text-white mb-3">E-Mail</h3>
-            <a href="mailto:heikobanaszak1@web.de" className="text-gray-300 hover:text-cyan-400 transition-colors text-lg block break-all">
-              heikobanaszak1@web.de
+            <a href="mailto:kontakt@djdemo.de" className="text-gray-300 hover:text-cyan-400 transition-colors text-lg block break-all">
+              kontakt@djdemo.de
             </a>
           </div>
 

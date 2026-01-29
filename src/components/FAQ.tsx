@@ -35,7 +35,7 @@ const FAQ = () => {
     },
     {
       question: 'Fahren Sie auch außerhalb an?',
-      answer: 'Ja! Wir sind im Umkreis von 350 km um Demmin buchbar – das umfasst Mecklenburg-Vorpommern, Berlin, Brandenburg, Schleswig-Holstein und Niedersachsen. Die Anfahrt wird individuell berechnet.'
+      answer: 'Ja! Wir sind im Umkreis von 350 km um Stadt buchbar – das umfasst Mecklenburg-Vorpommern, Berlin, Brandenburg, Schleswig-Holstein und Niedersachsen. Die Anfahrt wird individuell berechnet.'
     }
   ]
 

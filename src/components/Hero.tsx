@@ -44,7 +44,7 @@ const Hero = ({ onOpenBooking, onOpenAbout }: HeroProps) => {
                       filter: 'drop-shadow(0 0 20px rgba(14, 165, 233, 0.4))'
                     }}
                   >
-                    DJDEMO - Ihr Event DJ aus Demmin
+                    DJDEMO - Ihr Event DJ aus Stadt
                     <span
                       className="absolute inset-0 -z-10"
                       style={{
@@ -131,7 +131,7 @@ const Hero = ({ onOpenBooking, onOpenAbout }: HeroProps) => {
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
                 <div className="absolute bottom-0 left-0 right-0 p-8">
                   <div className="text-xl md:text-2xl font-bold text-white">DJDEMO</div>
-                  <div className="text-sm text-gray-300">Heiko Kohlfärber</div>
+                  <div className="text-sm text-gray-300">Max Mustermann</div>
                   <button
                     onClick={onOpenAbout}
                     className="mt-4 text-sm font-semibold hover:text-cyan-400 transition-colors flex items-center gap-2"

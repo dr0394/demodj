@@ -55,7 +55,7 @@ const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
                 >
                   <img
                     src="https://alkaio.com/media/889623693444528.jpeg"
-                    alt="Heiko Banaszak - DJDEMO"
+                    alt="Max Mustermann - DJDEMO"
                     className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent" />
@@ -71,7 +71,7 @@ const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
                       </div>
                       <div>
                         <div className="text-3xl font-bold text-white">DJDEMO</div>
-                        <div className="text-sm" style={{ color: '#0EA5E9' }}>Heiko Banaszak</div>
+                        <div className="text-sm" style={{ color: '#0EA5E9' }}>Max Mustermann</div>
                       </div>
                     </div>
                   </div>
@@ -152,7 +152,7 @@ const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
                 </div>
 
                 <h2 className="text-4xl md:text-5xl font-bold text-white leading-tight">
-                  Ihr Event-DJ aus Demmin<br />
+                  Ihr Event-DJ aus Stadt<br />
                   <span
                     className="inline-block bg-clip-text text-transparent"
                     style={{ backgroundImage: 'linear-gradient(to right, #0EA5E9, #06B6D4)' }}
@@ -164,7 +164,7 @@ const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
 
               <div className="space-y-6 text-gray-300/90 leading-relaxed">
                 <p className="text-lg">
-                  Ich bin DJDEMO – Ihr professioneller <span className="font-bold text-white">Event-DJ</span> aus Demmin (Mecklenburg-Vorpommern). Spezialisiert auf <span className="font-bold text-white">80er & 90er Musik</span> bringe ich die perfekte Stimmung auf jede Veranstaltung – ob Hochzeit, Geburtstag, Firmenfeier oder Party.
+                  Ich bin DJDEMO – Ihr professioneller <span className="font-bold text-white">Event-DJ</span> aus Stadt (Mecklenburg-Vorpommern). Spezialisiert auf <span className="font-bold text-white">80er & 90er Musik</span> bringe ich die perfekte Stimmung auf jede Veranstaltung – ob Hochzeit, Geburtstag, Firmenfeier oder Party.
                 </p>
 
                 <p>
@@ -172,7 +172,7 @@ const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
                 </p>
 
                 <p>
-                  Buchbar im <span className="font-bold text-white">Umkreis von 350 km</span> um Demmin, betreue ich Events in ganz Mecklenburg-Vorpommern, Berlin, Brandenburg, Schleswig-Holstein und Niedersachsen. Ihre Wünsche stehen im Mittelpunkt – ich passe mich jeder Stimmung und jedem Publikum individuell an.
+                  Buchbar im <span className="font-bold text-white">Umkreis von 350 km</span> um Stadt, betreue ich Events in ganz Mecklenburg-Vorpommern, Berlin, Brandenburg, Schleswig-Holstein und Niedersachsen. Ihre Wünsche stehen im Mittelpunkt – ich passe mich jeder Stimmung und jedem Publikum individuell an.
                 </p>
               </div>
 

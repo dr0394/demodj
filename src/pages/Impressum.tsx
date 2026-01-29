@@ -24,15 +24,15 @@ const Impressum = () => {
               <p className="text-lg">
                 <strong className="text-white">DJDEMO</strong>
               </p>
-              <p>Heiko Kohlfärber</p>
-              <p>Lerchenweg 9</p>
-              <p>17109 Demmin</p>
+              <p>Max Mustermann</p>
+              <p>Musterstraße 1</p>
+              <p>12345 Stadt</p>
               <p>Deutschland</p>
             </div>
 
             <div>
               <h2 className="text-xl font-bold text-white mb-3">Kontakt</h2>
-              <p>E-Mail: <a href="mailto:heikobanaszak1@web.de" className="hover:opacity-80 transition-colors" style={{ color: '#0EA5E9' }}>heikobanaszak1@web.de</a></p>
+              <p>E-Mail: <a href="mailto:kontakt@djdemo.de" className="hover:opacity-80 transition-colors" style={{ color: '#0EA5E9' }}>kontakt@djdemo.de</a></p>
               <p>Website: <a href="https://www.djdemo.de" className="hover:opacity-80 transition-colors" style={{ color: '#0EA5E9' }}>www.djdemo.de</a></p>
             </div>
 
