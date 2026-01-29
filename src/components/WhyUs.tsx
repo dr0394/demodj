@@ -48,7 +48,7 @@ const WhyUs = () => {
                 backgroundColor: 'rgba(14, 165, 233, 0.05)'
               }}
             >
-              Warum DJ Jackobeat
+              Warum DJDEMO
             </span>
           </div>
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">

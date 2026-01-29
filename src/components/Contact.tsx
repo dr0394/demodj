@@ -3,7 +3,7 @@ import { Phone, Mail, MessageCircle } from 'lucide-react'
 
 const Contact = () => {
   const handleWhatsApp = () => {
-    const message = encodeURIComponent('Hallo DJ Jackobeat! Ich möchte gerne mehr über Ihre Leistungen erfahren.')
+    const message = encodeURIComponent('Hallo DJDEMO! Ich möchte gerne mehr über Ihre Leistungen erfahren.')
     window.open(`https://wa.me/4915201798664?text=${message}`, '_blank')
   }
 
@@ -36,7 +36,7 @@ const Contact = () => {
             </div>
             <h3 className="text-xl font-bold text-white mb-3">Facebook</h3>
             <a href="https://www.facebook.com/profile.php?id=615863744646074" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-cyan-400 transition-colors text-lg block">
-              DJ Jackobeat
+              DJDEMO
             </a>
           </div>
 

@@ -44,7 +44,7 @@ const Hero = ({ onOpenBooking, onOpenAbout }: HeroProps) => {
                       filter: 'drop-shadow(0 0 20px rgba(14, 165, 233, 0.4))'
                     }}
                   >
-                    DJ Jackobeat - Ihr Event DJ aus Demmin
+                    DJDEMO - Ihr Event DJ aus Demmin
                     <span
                       className="absolute inset-0 -z-10"
                       style={{
@@ -125,12 +125,12 @@ const Hero = ({ onOpenBooking, onOpenAbout }: HeroProps) => {
               <div className="aspect-square rounded-lg overflow-hidden border border-white/10 bg-gradient-to-br from-slate-900 to-slate-800">
                 <img
                   src="https://alkaio.com/media/889623693444528.jpeg"
-                  alt="DJ Jackobeat bei einer Veranstaltung"
+                  alt="DJDEMO bei einer Veranstaltung"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
                 <div className="absolute bottom-0 left-0 right-0 p-8">
-                  <div className="text-xl md:text-2xl font-bold text-white">DJ Jackobeat</div>
+                  <div className="text-xl md:text-2xl font-bold text-white">DJDEMO</div>
                   <div className="text-sm text-gray-300">Heiko Kohlfärber</div>
                   <button
                     onClick={onOpenAbout}

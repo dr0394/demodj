@@ -43,7 +43,7 @@ const ProblemSolution = ({ onOpenBooking }: ProblemSolutionProps) => {
                 Ihr Rundum-Sorglos-Paket
               </h3>
               <p className="text-lg text-gray-300/90 leading-relaxed">
-                DJ Jackobeat liefert <strong className="text-white">professionelle Musik</strong>,
+                DJDEMO liefert <strong className="text-white">professionelle Musik</strong>,
                 <strong className="text-white"> zuverlässige Technik</strong> und
                 <strong className="text-white"> perfekte Organisation</strong>.
                 Spezialisiert auf 80er & 90er mit moderner Lichttechnik. Alles aus einer Hand.

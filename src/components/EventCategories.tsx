@@ -258,7 +258,7 @@ const EventCategories = ({ onOpenBooking }: EventCategoriesProps) => {
             Für jeden Anlass der richtige Beat
           </h2>
           <p className="text-lg md:text-xl text-gray-300/90 max-w-3xl mx-auto">
-            Hochzeiten, Geburtstage, Firmenevents, Disco & mehr – DJ Jackobeat macht Ihre Party unvergesslich
+            Hochzeiten, Geburtstage, Firmenevents, Disco & mehr – DJDEMO macht Ihre Party unvergesslich
           </p>
         </div>
 

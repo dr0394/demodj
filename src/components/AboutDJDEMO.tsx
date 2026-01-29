@@ -1,22 +1,22 @@
 import React from 'react'
 import { Music, Heart, Globe, Award } from 'lucide-react'
 
-const AboutDJJackobeat = () => {
+const AboutDJDEMO = () => {
   return (
-    <section id="ueber-dj-jackobeat" className="relative py-24 px-6 sm:px-10 lg:px-16">
+    <section id="ueber-djdemo" className="relative py-24 px-6 sm:px-10 lg:px-16">
       <div className="max-w-7xl mx-auto">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           <div className="relative">
             <div className="aspect-square rounded-lg overflow-hidden border border-white/10 bg-gradient-to-br from-slate-900 to-slate-800">
               <img
                 src="https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg"
-                alt="DJ Jackobeat - Ihr DJ für die 80er & 90er"
+                alt="DJDEMO - Ihr DJ für die 80er & 90er"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-8">
                 <div className="text-2xl md:text-3xl font-bold text-white">Heiko Banaszak</div>
-                <div className="text-lg" style={{ color: '#0EA5E9' }}>DJ Jackobeat</div>
+                <div className="text-lg" style={{ color: '#0EA5E9' }}>DJDEMO</div>
               </div>
             </div>
             <div
@@ -36,7 +36,7 @@ const AboutDJJackobeat = () => {
                     backgroundColor: 'rgba(14, 165, 233, 0.05)'
                   }}
                 >
-                  Über DJ Jackobeat
+                  Über DJDEMO
                 </span>
               </div>
               <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
@@ -44,7 +44,7 @@ const AboutDJJackobeat = () => {
               </h2>
               <div className="space-y-4">
                 <p className="text-lg md:text-xl text-gray-300/90 leading-relaxed">
-                  Ich bin DJ Jackobeat – Ihr professioneller <strong className="text-white">80er & 90er DJ</strong> aus Demmin. Mit Leidenschaft für die beste Musik zweier Jahrzehnte sorge ich für unvergessliche Momente auf Ihrer Feier.
+                  Ich bin DJDEMO – Ihr professioneller <strong className="text-white">80er & 90er DJ</strong> aus Demmin. Mit Leidenschaft für die beste Musik zweier Jahrzehnte sorge ich für unvergessliche Momente auf Ihrer Feier.
                 </p>
                 <p className="text-lg text-gray-300/80 leading-relaxed">
                   Von Hochzeiten über Geburtstage bis zu Firmenevents – ich bringe die <strong className="text-white">Hits der 80er & 90er</strong> zurück auf die Tanzfläche. Mit moderner Technik, professioneller Lichtshow und persönlicher Musikberatung wird Ihr Event zum vollen Erfolg.
@@ -110,4 +110,4 @@ const AboutDJJackobeat = () => {
   )
 }
 
-export default AboutDJJackobeat
+export default AboutDJDEMO

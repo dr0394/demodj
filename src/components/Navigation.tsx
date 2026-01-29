@@ -23,7 +23,7 @@ const Navigation = ({ onOpenBooking, onOpenAbout }: NavigationProps) => {
         <div className="flex justify-between items-center h-20">
           <div className="flex items-center">
             <div className="text-2xl md:text-3xl font-bold bg-clip-text text-transparent" style={{ backgroundImage: 'linear-gradient(to right, #0EA5E9, #06B6D4)' }}>
-              DJ JACKOBEAT
+              DJDEMO
             </div>
           </div>
 

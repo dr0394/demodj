@@ -119,7 +119,7 @@ const Datenschutz = () => {
               <h3 className="text-lg font-semibold text-white mb-2 mt-4">Hinweis zur verantwortlichen Stelle</h3>
               <p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>
               <p className="mt-2">
-                DJ Jackobeat<br />
+                DJDEMO<br />
                 Heiko Banaszak<br />
                 Musterstraße 123<br />
                 17109 Demmin<br />

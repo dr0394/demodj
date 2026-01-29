@@ -6,32 +6,32 @@ const Testimonials = () => {
       name: 'Sarah & Michael',
       event: 'Hochzeit',
       rating: 5,
-      text: 'DJ Jackobeat hat unsere Hochzeit zu einem unvergesslichen Erlebnis gemacht! Die Musikauswahl war perfekt, die Tanzfläche war die ganze Nacht voll. Absolut professionell und sympathisch. Vielen Dank!',
+      text: 'DJDEMO hat unsere Hochzeit zu einem unvergesslichen Erlebnis gemacht! Die Musikauswahl war perfekt, die Tanzfläche war die ganze Nacht voll. Absolut professionell und sympathisch. Vielen Dank!',
       isNew: true
     },
     {
       name: 'Markus Weber',
       event: 'Firmenevent',
       rating: 5,
-      text: 'Für unsere Firmenfeier war DJ Jackobeat genau die richtige Wahl. Tolle Stimmung, perfekte Organisation und sehr zuverlässig. Alle Kollegen waren begeistert. Absolut empfehlenswert!'
+      text: 'Für unsere Firmenfeier war DJDEMO genau die richtige Wahl. Tolle Stimmung, perfekte Organisation und sehr zuverlässig. Alle Kollegen waren begeistert. Absolut empfehlenswert!'
     },
     {
       name: 'Julia Schneider',
       event: '50. Geburtstag',
       rating: 5,
-      text: 'Zum 50. Geburtstag meines Mannes hat DJ Jackobeat für die perfekte Atmosphäre gesorgt. Die Musikwünsche wurden super umgesetzt und alle Gäste hatten großen Spaß. Danke für den tollen Abend!'
+      text: 'Zum 50. Geburtstag meines Mannes hat DJDEMO für die perfekte Atmosphäre gesorgt. Die Musikwünsche wurden super umgesetzt und alle Gäste hatten großen Spaß. Danke für den tollen Abend!'
     },
     {
       name: 'Familie Müller',
       event: 'Silberhochzeit',
       rating: 5,
-      text: 'Unsere Silberhochzeit war dank DJ Jackobeat ein voller Erfolg! Die Mischung aus Oldies und aktuellen Hits war perfekt für alle Generationen. Die Tanzfläche war durchgehend voll. Top Service!'
+      text: 'Unsere Silberhochzeit war dank DJDEMO ein voller Erfolg! Die Mischung aus Oldies und aktuellen Hits war perfekt für alle Generationen. Die Tanzfläche war durchgehend voll. Top Service!'
     },
     {
       name: 'Thomas Klein',
       event: 'Vereinsfest',
       rating: 5,
-      text: 'DJ Jackobeat war beim Sommerfest unseres Vereins der Hit! Professionell, pünktlich und mit einer tollen Musikauswahl. Die Stimmung war bombastisch. Gerne wieder!'
+      text: 'DJDEMO war beim Sommerfest unseres Vereins der Hit! Professionell, pünktlich und mit einer tollen Musikauswahl. Die Stimmung war bombastisch. Gerne wieder!'
     },
     {
       name: 'Lisa & Jan',

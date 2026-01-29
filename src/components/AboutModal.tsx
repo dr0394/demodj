@@ -55,7 +55,7 @@ const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
                 >
                   <img
                     src="https://alkaio.com/media/889623693444528.jpeg"
-                    alt="Heiko Banaszak - DJ Jackobeat"
+                    alt="Heiko Banaszak - DJDEMO"
                     className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent" />
@@ -70,7 +70,7 @@ const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
                         <Music className="w-6 h-6 text-black" />
                       </div>
                       <div>
-                        <div className="text-3xl font-bold text-white">DJ Jackobeat</div>
+                        <div className="text-3xl font-bold text-white">DJDEMO</div>
                         <div className="text-sm" style={{ color: '#0EA5E9' }}>Heiko Banaszak</div>
                       </div>
                     </div>
@@ -147,7 +147,7 @@ const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
                 >
                   <Heart className="w-4 h-4" style={{ color: '#0EA5E9' }} />
                   <span className="text-sm uppercase tracking-[0.25em] font-bold" style={{ color: '#0EA5E9' }}>
-                    Über DJ Jackobeat
+                    Über DJDEMO
                   </span>
                 </div>
 
@@ -164,7 +164,7 @@ const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
 
               <div className="space-y-6 text-gray-300/90 leading-relaxed">
                 <p className="text-lg">
-                  Ich bin DJ Jackobeat – Ihr professioneller <span className="font-bold text-white">Event-DJ</span> aus Demmin (Mecklenburg-Vorpommern). Spezialisiert auf <span className="font-bold text-white">80er & 90er Musik</span> bringe ich die perfekte Stimmung auf jede Veranstaltung – ob Hochzeit, Geburtstag, Firmenfeier oder Party.
+                  Ich bin DJDEMO – Ihr professioneller <span className="font-bold text-white">Event-DJ</span> aus Demmin (Mecklenburg-Vorpommern). Spezialisiert auf <span className="font-bold text-white">80er & 90er Musik</span> bringe ich die perfekte Stimmung auf jede Veranstaltung – ob Hochzeit, Geburtstag, Firmenfeier oder Party.
                 </p>
 
                 <p>
@@ -192,7 +192,7 @@ const AboutModal = ({ isOpen, onClose }: AboutModalProps) => {
                   <div>
                     <p className="text-sm font-semibold text-white mb-2">Meine Philosophie</p>
                     <p className="text-sm text-gray-300/90 leading-relaxed italic">
-                      "Gute Musik verbindet Menschen. Als DJ Jackobeat bringe ich mit 80er & 90er Klassikern und modernen Hits die perfekte Balance zwischen Nostalgie und Party-Stimmung. Jede Veranstaltung ist einzigartig – und verdient den perfekten Sound."
+                      "Gute Musik verbindet Menschen. Als DJDEMO bringe ich mit 80er & 90er Klassikern und modernen Hits die perfekte Balance zwischen Nostalgie und Party-Stimmung. Jede Veranstaltung ist einzigartig – und verdient den perfekten Sound."
                     </p>
                   </div>
                 </div>

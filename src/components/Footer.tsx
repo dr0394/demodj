@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <div className="mb-3">
               <div className="text-2xl font-bold bg-clip-text text-transparent" style={{ backgroundImage: 'linear-gradient(to right, #0EA5E9, #06B6D4)' }}>
-                DJ JACKOBEAT
+                DJDEMO
               </div>
             </div>
             <p className="text-sm text-gray-400 mt-2">
@@ -90,7 +90,7 @@ const Footer = () => {
 
         <div className="border-t border-white/10 pt-6 mt-6">
           <div className="text-center text-xs text-gray-500">
-            <p>&copy; {new Date().getFullYear()} DJ Jackobeat - Heiko Kohlfärber. Alle Rechte vorbehalten.</p>
+            <p>&copy; {new Date().getFullYear()} DJDEMO - Heiko Kohlfärber. Alle Rechte vorbehalten.</p>
           </div>
         </div>
       </div>

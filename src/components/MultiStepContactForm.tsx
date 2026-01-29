@@ -65,7 +65,7 @@ const MultiStepContactForm = ({ isOpen, onClose }: MultiStepContactFormProps) =>
   ]
 
   const generateMessageText = () => {
-    let text = `Hallo DJ Jackobeat,\n\n`
+    let text = `Hallo DJDEMO,\n\n`
     text += `ich interessiere mich für Ihre Services und möchte folgende Anfrage stellen:\n\n`
 
     text += `📋 KONTAKTDATEN\n`

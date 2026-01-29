@@ -1,10 +1,10 @@
-# robots.txt für DJ Jackobeat - Event DJ Service Demmin
+# robots.txt für DJDEMO - Event DJ Service Demmin
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.djjackobeat.de/sitemap.xml
+Sitemap: https://www.djdemo.de/sitemap.xml
 
 # Priorität für wichtige Suchmaschinen
 User-agent: Googlebot
